@@ -33,7 +33,7 @@ This tool is ideal for **HR Tech companies, recruiters, and job portals** to str
 ### 1️⃣ Clone the Repository  
 ```bash  
 git clone https://github.com/Eric-BR2001/resume-nlp-analyzer.git  
-cd resume-analyzer  
+cd analyze_resumes
 ```  
 
 ### 2️⃣ Install Dependencies  
