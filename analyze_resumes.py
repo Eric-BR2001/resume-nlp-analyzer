@@ -55,7 +55,7 @@ def analyze_resume(file_path):
     }
 
 # Test with sample resumes (replace with actual file paths)
-resume_files = ["Resume.pdf"]
+resume_files = ["Resume.pdf","CV.pdf"]
 results = [analyze_resume(file) for file in resume_files]
 
 # Convert results to DataFrame for better visualization
